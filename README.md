@@ -3,6 +3,6 @@
 
 👀 I’m interested in technologies, they have always interested me and one of the decisive steps to change the sector has been, above all, the fact of being able to build things that help solve everyday problems.
 
-💻 I’m currently finishing the Codespace Academy Full Stack Bootcamp, from which I would like to highlight my interest in the Frontend part, using React and Sass. The project, will be published here, in my GitHub page for everyone who wants to know.
+💻 I’m already certifiedas a Full Stack Web Developer by Codespace Academy. 
 
-🌱 The rest of technologies I am learning are: NodeJs, Express, MongoDB and Mongoose among others.
+The project I did for the final course is here in the fyh-findYourHealth repository. It's made with ReactJS, SASS, MongoDB, NodeJS and Express. Using JWT for the authentication.🌱 
